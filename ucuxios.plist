@@ -33,9 +33,9 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.ucuxin.ucuxinh.n1</string>
+          <string>com.ucuxin.ucuxinh</string>
           <key>bundle-version</key>
-          <string>2.0</string>
+          <string>2.0.2014.10311</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
